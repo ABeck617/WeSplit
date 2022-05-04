@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		766220F3281F3417003DDD71 /* SwiftUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 766220F2281F3417003DDD71 /* SwiftUIView.swift */; };
 		76F5B44328005ECC002585D4 /* WeSplitApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 76F5B44228005ECC002585D4 /* WeSplitApp.swift */; };
 		76F5B44528005ECC002585D4 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 76F5B44428005ECC002585D4 /* ContentView.swift */; };
 		76F5B44728005ECC002585D4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 76F5B44628005ECC002585D4 /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		766220F2281F3417003DDD71 /* SwiftUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIView.swift; sourceTree = "<group>"; };
 		76F5B43F28005ECC002585D4 /* WeSplit.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WeSplit.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		76F5B44228005ECC002585D4 /* WeSplitApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeSplitApp.swift; sourceTree = "<group>"; };
 		76F5B44428005ECC002585D4 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -55,6 +57,7 @@
 				76F5B44428005ECC002585D4 /* ContentView.swift */,
 				76F5B44628005ECC002585D4 /* Assets.xcassets */,
 				76F5B44828005ECC002585D4 /* Preview Content */,
+				766220F2281F3417003DDD71 /* SwiftUIView.swift */,
 			);
 			path = WeSplit;
 			sourceTree = "<group>";
@@ -139,6 +142,7 @@
 			files = (
 				76F5B44528005ECC002585D4 /* ContentView.swift in Sources */,
 				76F5B44328005ECC002585D4 /* WeSplitApp.swift in Sources */,
+				766220F3281F3417003DDD71 /* SwiftUIView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
